@@ -1,0 +1,25 @@
+{
+  "name": "normalizerange-js",
+  "version": "1.0.0",
+  "description": "Normalizes a value from one range, to another.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wizcorp/normalizerange-js.git"
+  },
+  "keywords": [
+    "normalize",
+    "range",
+    "to",
+    "range"
+  ],
+  "author": "John Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wizcorp/normalizerange-js/issues"
+  },
+  "homepage": "https://github.com/Wizcorp/normalizerange-js#readme"
+}
